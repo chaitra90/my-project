@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is E8B6-3491
+
+ Directory of D:\git project
+
+13-04-2023  10:52    <DIR>          .
+13-04-2023  10:52    <DIR>          ..
+13-04-2023  10:53                 0 file.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  20,913,872,896 bytes free
